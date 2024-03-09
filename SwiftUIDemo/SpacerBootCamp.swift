@@ -9,7 +9,17 @@ import SwiftUI
 
 struct SpacerBootCamp: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        HStack(spacing: 0) {
+            Rectangle()
+                .frame(width: 100, height: 100)
+            Spacer()
+                .frame(height: 10)
+                .background(.orange)
+            Rectangle()
+                .fill(.red)
+                .frame(width: 100, height: 100)
+        }
+        .background(.blue)
     }
 }
 
