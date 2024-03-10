@@ -29,6 +29,7 @@
 		3FDCDC262B9D328C00EE3A10 /* ForeachBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDCDC252B9D328C00EE3A10 /* ForeachBootCamp.swift */; };
 		3FDCDC282B9D43C200EE3A10 /* ScrollViewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDCDC272B9D43C200EE3A10 /* ScrollViewBootCamp.swift */; };
 		3FDCDC2A2B9D8B8C00EE3A10 /* GridBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDCDC292B9D8B8C00EE3A10 /* GridBootCamp.swift */; };
+		3FDCDC2C2B9DE2A400EE3A10 /* SafeAreaBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDCDC2B2B9DE2A400EE3A10 /* SafeAreaBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,7 @@
 		3FDCDC252B9D328C00EE3A10 /* ForeachBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeachBootCamp.swift; sourceTree = "<group>"; };
 		3FDCDC272B9D43C200EE3A10 /* ScrollViewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootCamp.swift; sourceTree = "<group>"; };
 		3FDCDC292B9D8B8C00EE3A10 /* GridBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootCamp.swift; sourceTree = "<group>"; };
+		3FDCDC2B2B9DE2A400EE3A10 /* SafeAreaBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				3FDCDC252B9D328C00EE3A10 /* ForeachBootCamp.swift */,
 				3FDCDC272B9D43C200EE3A10 /* ScrollViewBootCamp.swift */,
 				3FDCDC292B9D8B8C00EE3A10 /* GridBootCamp.swift */,
+				3FDCDC2B2B9DE2A400EE3A10 /* SafeAreaBootCamp.swift */,
 				3F98F0FA2B874F700040F425 /* ContentView.swift */,
 				3F98F0FC2B874F730040F425 /* Assets.xcassets */,
 				3F98F0FE2B874F730040F425 /* Preview Content */,
@@ -310,6 +313,7 @@
 				3FDCDC1F2B9CA4E600EE3A10 /* BackgroundAndOverlayBootCamp.swift in Sources */,
 				3FDCDC202B9CA4E600EE3A10 /* PaddingAndSpacerBootCamp.swift in Sources */,
 				3FDCDC222B9CA4E600EE3A10 /* IconsBootCamp.swift in Sources */,
+				3FDCDC2C2B9DE2A400EE3A10 /* SafeAreaBootCamp.swift in Sources */,
 				3F98F0F92B874F700040F425 /* SwiftUIDemoApp.swift in Sources */,
 				3FDCDC2A2B9D8B8C00EE3A10 /* GridBootCamp.swift in Sources */,
 				3FDCDC1E2B9CA4E600EE3A10 /* GradientsBootCamp.swift in Sources */,

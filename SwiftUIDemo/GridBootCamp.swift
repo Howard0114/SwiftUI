@@ -21,9 +21,9 @@ struct GridBootCamp: View {
     
     var body: some View {
         ScrollView {
-            Rectangle()
-                .fill(.green)
-                .frame(height: 400)
+//            Rectangle()
+//                .fill(.green)
+//                .frame(height: 400)
             
             LazyVGrid(columns: gridcolumns,
                       spacing: 10) {
@@ -46,13 +46,15 @@ struct GridBootCamp: View {
                             .fill(.blue)
                             .frame(height: 50)
                     }
-                } header: {
+                }
+                header: {
                     Text("section2")
                         .frame(height: 50)
                 }
             }
             .background(.red)
         }
+//        .edgesIgnoringSafeArea(.all)
     }
 }
 
