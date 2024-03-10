@@ -10,10 +10,10 @@ import SwiftUI
 struct ShapesBootCamp: View {
     var body: some View {
         VStack{
-//            Circle() //圆形
+            Circle() //圆形
 //            Ellipse() //椭圆
 //            Capsule() //胶囊
-            Rectangle() //矩形
+//            Rectangle() //矩形
                 .trim(from: 0.1, to: 0.9)//剪裁 0是3点钟方向  0.25 6点钟方向  0.5 9点钟方向  1 12点钟方向
     //            .stroke(.orange,
     //                    style:StrokeStyle(lineWidth: 20, lineCap: .round, dash: [30])

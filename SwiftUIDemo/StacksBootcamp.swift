@@ -31,7 +31,7 @@ struct StacksBootcamp: View {
             
             VStack{
                 Rectangle()
-                    .fill(.red)
+                    .fill(.blue)
                     .frame(width: 150, height: 150)
                 
                 Rectangle()
