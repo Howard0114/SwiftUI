@@ -27,6 +27,7 @@
 		3FDCDC222B9CA4E600EE3A10 /* IconsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDCDC172B9CA4E600EE3A10 /* IconsBootCamp.swift */; };
 		3FDCDC242B9D2EDA00EE3A10 /* InitializerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDCDC232B9D2EDA00EE3A10 /* InitializerBootCamp.swift */; };
 		3FDCDC262B9D328C00EE3A10 /* ForeachBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDCDC252B9D328C00EE3A10 /* ForeachBootCamp.swift */; };
+		3FDCDC282B9D43C200EE3A10 /* ScrollViewBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDCDC272B9D43C200EE3A10 /* ScrollViewBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		3FDCDC172B9CA4E600EE3A10 /* IconsBootCamp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IconsBootCamp.swift; sourceTree = "<group>"; };
 		3FDCDC232B9D2EDA00EE3A10 /* InitializerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootCamp.swift; sourceTree = "<group>"; };
 		3FDCDC252B9D328C00EE3A10 /* ForeachBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForeachBootCamp.swift; sourceTree = "<group>"; };
+		3FDCDC272B9D43C200EE3A10 /* ScrollViewBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 				3FDCDC0D2B9CA4E500EE3A10 /* SpacerBootCamp.swift */,
 				3FDCDC232B9D2EDA00EE3A10 /* InitializerBootCamp.swift */,
 				3FDCDC252B9D328C00EE3A10 /* ForeachBootCamp.swift */,
+				3FDCDC272B9D43C200EE3A10 /* ScrollViewBootCamp.swift */,
 				3F98F0FA2B874F700040F425 /* ContentView.swift */,
 				3F98F0FC2B874F730040F425 /* Assets.xcassets */,
 				3F98F0FE2B874F730040F425 /* Preview Content */,
@@ -298,6 +301,7 @@
 			files = (
 				3FDCDC212B9CA4E600EE3A10 /* ShapesBootCamp.swift in Sources */,
 				3FDCDC1C2B9CA4E600EE3A10 /* StacksBootcamp.swift in Sources */,
+				3FDCDC282B9D43C200EE3A10 /* ScrollViewBootCamp.swift in Sources */,
 				3FDCDC1A2B9CA4E600EE3A10 /* TextBootcamp.swift in Sources */,
 				3F98F0FB2B874F700040F425 /* ContentView.swift in Sources */,
 				3FDCDC1F2B9CA4E600EE3A10 /* BackgroundAndOverlayBootCamp.swift in Sources */,
