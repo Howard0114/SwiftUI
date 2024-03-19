@@ -25,7 +25,7 @@ struct SheetBootCamp: View {
                     .cornerRadius(10)
             })
             .sheet(isPresented: $showSheet) {
-                //不要在这里写if else 不会生效
+                //不要在这里写if else等逻辑语句 不会生效
                 SecondView()
             }
         }
