@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3F251B6F2BA2C112003F103B /* TernaryBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F251B6E2BA2C112003F103B /* TernaryBootCamp.swift */; };
 		3F251B712BA2C792003F103B /* AnimationBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F251B702BA2C792003F103B /* AnimationBootCamp.swift */; };
+		3F7A350A2BB3E2F6004E68FF /* ContextMenuBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7A35092BB3E2F6004E68FF /* ContextMenuBootCamp.swift */; };
 		3F98F0F92B874F700040F425 /* SwiftUIDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F98F0F82B874F700040F425 /* SwiftUIDemoApp.swift */; };
 		3F98F0FB2B874F700040F425 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F98F0FA2B874F700040F425 /* ContentView.swift */; };
 		3F98F0FD2B874F730040F425 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F98F0FC2B874F730040F425 /* Assets.xcassets */; };
@@ -68,6 +69,7 @@
 /* Begin PBXFileReference section */
 		3F251B6E2BA2C112003F103B /* TernaryBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootCamp.swift; sourceTree = "<group>"; };
 		3F251B702BA2C792003F103B /* AnimationBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootCamp.swift; sourceTree = "<group>"; };
+		3F7A35092BB3E2F6004E68FF /* ContextMenuBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuBootCamp.swift; sourceTree = "<group>"; };
 		3F98F0F52B874F700040F425 /* SwiftUIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F98F0F82B874F700040F425 /* SwiftUIDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoApp.swift; sourceTree = "<group>"; };
 		3F98F0FA2B874F700040F425 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -191,6 +193,7 @@
 				3FEC60432BAAAAE400DD4DF5 /* ListBootCamp.swift */,
 				3FD0D3F82BB14374004D99EB /* AlertBootCamp.swift */,
 				3FD0D3FA2BB2979B004D99EB /* ActionsheetBootCamp.swift */,
+				3F7A35092BB3E2F6004E68FF /* ContextMenuBootCamp.swift */,
 				3F98F0FA2B874F700040F425 /* ContentView.swift */,
 				3F98F0FC2B874F730040F425 /* Assets.xcassets */,
 				3F98F0FE2B874F730040F425 /* Preview Content */,
@@ -357,6 +360,7 @@
 				3FC0464B2BA8095200CB69B1 /* SheetBootCamp.swift in Sources */,
 				3FC0464F2BA95CB100CB69B1 /* NavigationBootCamp.swift in Sources */,
 				3FDCDC212B9CA4E600EE3A10 /* ShapesBootCamp.swift in Sources */,
+				3F7A350A2BB3E2F6004E68FF /* ContextMenuBootCamp.swift in Sources */,
 				3FDCDC1C2B9CA4E600EE3A10 /* StacksBootcamp.swift in Sources */,
 				3FDCDC282B9D43C200EE3A10 /* ScrollViewBootCamp.swift in Sources */,
 				3FDCDC1A2B9CA4E600EE3A10 /* TextBootcamp.swift in Sources */,
